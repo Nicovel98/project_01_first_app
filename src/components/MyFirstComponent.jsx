@@ -7,7 +7,6 @@ function MyFirstComponent() {
             <div>Hello World I'm Nicolás</div>
             <div>27 de Junio de 2024</div>
         </>
-
     )
 }
 
